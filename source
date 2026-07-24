@@ -558,7 +558,7 @@ function Library:CreateWindow(Setting)
 	Ruafimg.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	Ruafimg.BackgroundTransparency = 1.000
 	Ruafimg.Position = UDim2.new(0, 5, 0, 0)
-	Ruafimg.Size = UDim2.new(0, 25, 0, 25)
+	Ruafimg.Size = UDim2.new(0, 35, 0, 35)
 	Ruafimg.Image = getgenv().UIColor["Logo Image"]
 
 	TextLabelMain.Name = "TextLabelMain"
